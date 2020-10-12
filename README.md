@@ -1,7 +1,5 @@
 # IMDb Site Clone
 
-Foobar is a Python library for dealing with word pluralization.
-
 <h3 align="center">  
     <img src="https://github.com/Walesson/imdb-site-clone/blob/master/img/banner-git.png" title="Imagem do site clone" />
 </h3>
