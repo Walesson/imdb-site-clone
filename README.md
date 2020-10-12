@@ -26,6 +26,4 @@ MIT Licence. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
-<font size="2" color="#CCC">
-Developed by Walesson Silva :wave: [See my Linkedin!](https://www.linkedin.com/in/walesson-silva-942962b6/)
-</font>
+> Developed by Walesson Silva :wave: [See my Linkedin!](https://www.linkedin.com/in/walesson-silva-942962b6/)
